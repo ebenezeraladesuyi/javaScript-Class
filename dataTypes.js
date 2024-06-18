@@ -64,8 +64,31 @@ const facebookUsers = [
         "email" : "gift@test.com"
         },   
 ]
-console.log(facebookUsers)
+// console.log(facebookUsers)
 
 
 const person = "goodday"
-console.log(person)
+// console.log(person)
+
+const students = [
+    {
+        "name" : "Bayo Alabi",
+        "age" : 14,
+        "class" : "sss2",
+        "gender" : "male",
+    },
+    {
+        "name" : "Aishat Ali",
+        "age" : 15,
+        "class" : "sss3",
+        "gender" : "female",
+    },
+    {
+        "name" : "Uche Ugbo",
+        "age" : 13,
+        "class" : "sss1",
+        "gender" : "female",
+    },
+]
+
+console.log(students)
